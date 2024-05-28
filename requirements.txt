@@ -6,3 +6,4 @@ sqlalchemy_utils
 pydantic
 python-dotenv
 psycopg2
+pymongo
