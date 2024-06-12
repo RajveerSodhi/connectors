@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from app.mongodb import MongoDBConnection
 
 app = FastAPI()
 
